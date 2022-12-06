@@ -1,0 +1,6 @@
+[submodule "springboot-microservice-eureka-openfeign"]
+	path = springboot-microservice-eureka-openfeign
+	url = git@github.com:diogogyn/springboot-microservice-eureka-openfeign.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = git@github.com:diogogyn/eureka-server.git
