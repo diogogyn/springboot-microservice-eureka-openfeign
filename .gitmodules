@@ -4,3 +4,6 @@
 [submodule "eureka-server"]
 	path = eureka-server
 	url = git@github.com:diogogyn/eureka-server.git
+[submodule "pagamentos"]
+	path = pagamentos
+	url = git@github.com:diogogyn/pagamentos.git
